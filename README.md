@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiakosNektarios11
 - 👀 I’m interested in fullstack programming
-- 🌱 I’m currently learning programming in C++,HTML-CSS,PHP.
+- 🌱 I’m currently learning programming in C++,HTML-CSS,Python,PHP.
 - 📫 How to reach me ...
 - Email:liakosnektarios@gmail.com
 
